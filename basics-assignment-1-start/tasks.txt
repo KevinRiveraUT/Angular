@@ -1,0 +1,5 @@
+1) 2 new components, warning and success, one manual, one with cli
+2) Outpet them beneath each other, add something to the template (warning and success text)
+    maybe nest as well 
+3) style with css
+4) play with it, different selectors, etc.
